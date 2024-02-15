@@ -1,0 +1,7 @@
+{
+    "name": "tunk-cc-ui",
+    "ccmodHumanName": "TunksUI",
+    "version": "1.0.0",
+	"plugin": "plugin.js",
+	"description": "Adds UI support: such as for auto-scaling button text"
+}
